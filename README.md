@@ -1,8 +1,11 @@
-- My tag is @kgolston13
-- I'm interested in software development, gaming, and the outdoors
-- Currently I'm enrolled for applied computer science
-- Pronouns: He/him
-- Fun fact: I'm an amateur artist 
+# @kgolston13
+
+Hey there! 👋 I'm kgolston13, a software development enthusiast with a passion for art and the outdoors.
+
+- 🎮 Currently diving into applied computer science, blending theory with hands-on coding.
+- 🌲 When I'm not in front of a screen, you can find me deep in a book, or outside in my garden.
+- 💻 Pronouns: He/him
+- 🎨 Fun fact: I'm also an amateur artist, always experimenting with new creative endeavors.
 
 <!---
 kgolston13/kgolston13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
